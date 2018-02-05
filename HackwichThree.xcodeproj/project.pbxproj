@@ -14,6 +14,7 @@
 		7FFE42EE2028EAAA00A4A4D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FFE42EC2028EAAA00A4A4D0 /* LaunchScreen.storyboard */; };
 		7FFE42F92028EAAB00A4A4D0 /* HackwichThreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFE42F82028EAAB00A4A4D0 /* HackwichThreeTests.swift */; };
 		7FFE43042028EAAB00A4A4D0 /* HackwichThreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFE43032028EAAB00A4A4D0 /* HackwichThreeUITests.swift */; };
+		7FFE43122028F22400A4A4D0 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFE43112028F22400A4A4D0 /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7FFE42FF2028EAAB00A4A4D0 /* HackwichThreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichThreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FFE43032028EAAB00A4A4D0 /* HackwichThreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichThreeUITests.swift; sourceTree = "<group>"; };
 		7FFE43052028EAAB00A4A4D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FFE43112028F22400A4A4D0 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				7FFE42E32028EAAA00A4A4D0 /* AppDelegate.swift */,
 				7FFE42E52028EAAA00A4A4D0 /* ViewController.swift */,
 				7FFE42E72028EAAA00A4A4D0 /* Main.storyboard */,
+				7FFE43112028F22400A4A4D0 /* ViewControllerTwo.swift */,
 				7FFE42EA2028EAAA00A4A4D0 /* Assets.xcassets */,
 				7FFE42EC2028EAAA00A4A4D0 /* LaunchScreen.storyboard */,
 				7FFE42EF2028EAAB00A4A4D0 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				7FFE42E62028EAAA00A4A4D0 /* ViewController.swift in Sources */,
 				7FFE42E42028EAAA00A4A4D0 /* AppDelegate.swift in Sources */,
+				7FFE43122028F22400A4A4D0 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
